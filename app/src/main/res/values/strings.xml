@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">MovieApplication</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">MovieTime</string>
+    <string name="movies">Top Rated Movies</string>
+    <string name="reviews">Reviews :</string>
+    <string name="book">BOOK NOW</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="movieId">"movieId</string>
+
 </resources>
